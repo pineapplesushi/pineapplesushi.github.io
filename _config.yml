@@ -15,7 +15,7 @@ name                     : &name "Luke Yiwen Lu"
 description              : &description "personal description"
 url                      : https://pineapplesushi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "pineapplesushi/pineapplesushi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   name             : "Luke Y. Lu"
   pronouns         : "He/him" 
   bio              : "Undergraduate student at Hong Kong Baptist University"
-  location         : "Hong Kong and Shenzhen, China"
+  location         : "Hong Kong and Shenzhen"
   employer         : 
   uri              : 
   email            : "luyiwen@life.hkbu.edu.hk" 
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "lukeylu"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
